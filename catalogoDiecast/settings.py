@@ -37,6 +37,14 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
+    'car_brand_request',
+    'car_brands',
+    'diecast_brand_request',
+    'diecast_brands',
+    'diecasts',
+    'garage',
+    'users'
 ]
 
 MIDDLEWARE = [
